@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Poole
+tagline:          'The Jekyll Butler'
+description:      'Base theme for Jekyll themes by @mdo.'
+url:              http://boky.github.io
+author:
+  name:           'Boky'
+  url:            https://twitter.com/mdo
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/poole
